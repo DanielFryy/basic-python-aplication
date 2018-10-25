@@ -1,0 +1,8 @@
+Daniel -> Neapolitan - medium - 20
+Daniel -> Italian - medium - 20
+Daniel -> Sicilian - medium - 20
+Liss -> Hawaiian - small - 10
+Liss -> Hawaiian - medium - 20
+Liss -> Maltese - large - 30
+Pedro -> Jumbo - large - 30
+Andrés -> Mexican - medium - 20
